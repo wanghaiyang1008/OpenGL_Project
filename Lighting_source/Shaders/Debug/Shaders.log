@@ -1,9 +1,9 @@
 ﻿  main.cpp
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(97): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(101): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(102): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\why\opengl_cpp\7-lighting_source\shaders\main.cpp(162): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-  Shaders.vcxproj -> D:\WHY\OpenGL_CPP\7-Lighting_source\Debug\Shaders.exe
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(118): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\git_file\opengl_project\lighting_source\shaders\main.cpp(182): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Shaders.vcxproj -> D:\Git_File\OpenGL_Project\Lighting_source\Debug\Shaders.exe

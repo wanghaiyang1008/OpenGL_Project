@@ -7,6 +7,7 @@ LightDirectional::LightDirectional(glm::vec3 _position, glm::vec3 _angles, glm::
 {
 	UpdateDirection();
 
+
 }
 
 LightDirectional::~LightDirectional()
